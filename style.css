@@ -1,0 +1,119 @@
+.lang-item{
+    background-color:#DCE6FF;
+}
+.uz-lang
+{
+    text-decoration: none;
+    font-family: 'Rubik',sans-serif;
+    font-weight: 500;
+    background-color: #ffffff;
+}
+.ru-lang
+{
+    text-decoration: none;
+    background-color: #DCE6FF;
+    font-family: 'Rubik',sans-serif;
+    font-weight: 500;
+}
+
+.kirish
+{
+    text-decoration: none;
+    background-color: dodgerblue;
+    font-family: 'Rubik Mone One',sans-serif;
+    color: #ffffff;
+}
+.nav-item, li
+{
+    text-decoration: none;
+    list-style: none;
+    color: dimgray;
+    font-family: 'Rubik',sans-serif;
+}
+.section-item
+{
+    text-decoration: none;
+}
+a{
+    text-decoration: none;
+}
+.section-h3
+{
+    color: #000000;
+    font-family: 'Rubik Mono One',;
+    font-weight: 700;
+    font-size: 15px;
+    letter-spacing: 1px;
+}
+p{
+    font-family: 'Rubik',sans-serif;
+}
+.article-banner h3{
+    font-family: 'Rubik Mono ',sans-serif;
+}
+.ads-button{
+    font-family: 'Rubik Mono ';
+    font-weight: 100;
+}
+section li{
+    background-color: #F6F6F6;
+}
+.article-banner
+{
+    background-color: #FFD7BA;
+}
+.ads-button{
+    background-color: #F78B3B;
+    color: aliceblue;
+}
+.section2-h3{
+    color: #000000;
+}
+.section3-h4{
+    color: #000000;
+}
+.section3-button{
+    background-color: #EAEAEA;
+
+
+}
+.dollar-rubl{
+    font-family: 'Rubik Mono One', sans-serif;
+    color: #5C80D8;
+}
+.dollar{
+    font-family: 'Rubik',sans-serif;
+    font-weight: 500;
+}
+.rubl{
+    font-family: 'Rubik',sans-serif;
+    font-weight: 500;
+}
+.search{
+    font-family: 'Rubik',sans-serif;
+    font-weight: 500;
+}
+.footer-logo{
+    color: #ffffff;
+    font-weight: 900;
+}
+.footer{
+    background-color: #7297EF;
+}
+.footer-p{
+    color: #EAEAEA;
+}
+.footer-a{
+    color: #EAEAEA;
+    font-family: 'Rubik',sans-serif;
+    font-weight: 600;
+}
+.footer-span{
+    color: #EAEAEA;
+    font-family: 'Rubik',sans-serif;
+    font-weight: 600;
+}
+.section h2{
+    font-family: 'Rubik Mono One',sans-serif;
+    font-weight: 800;
+}
